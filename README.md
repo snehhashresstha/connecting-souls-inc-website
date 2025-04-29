@@ -12,7 +12,7 @@ This WordPress website is currently under development to serve as the organizati
 - WordPress site setup and configuration on Hostinger
 - UI/UX design for elderly and family-focused audiences
 - Theme customization and plugin integration
-- Page creation: Home, About, Services, Testimonials, Contact
+- Page creation: Home, About, Services, Contact
 - SEO and performance optimization (in progress)
 
 ## Tech Stack
